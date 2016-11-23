@@ -1,0 +1,54 @@
+html {
+     background: rgb(19,25,51);
+ }
+
+body {
+     background: transparent;
+ }
+
+ .mypanel {
+     background-color: transparent;
+     min-height: 1000px;     
+}
+
+.inhalt {
+    margin-top: 80px;
+}
+
+ .navbar-inverse {
+     background-color: rgb(107,24,48);
+ }
+ 
+ .navbar-inverse .navbar-brand {
+     color: rgb(255,255,255)
+ }
+ 
+ .navbar-inverse .navbar-nav>li>a {
+     color: rgb(255,255,255)
+ }
+ 
+ .navbar-inverse .navbar-nav>.active>a,
+ .navbar-inverse .navbar-nav>.active>a:focus,
+ .navbar-inverse .navbar-nav>.active>a:hover {
+     color: azure;
+     background-color: rgb(156,0,71)
+ }
+
+.dropdown-menu {
+    background-color: rgb(107,24,48);
+}
+
+.dropdown-toggle {
+    background-color: rgb(107,24,48);
+    color: #000
+}
+
+h1{
+    color: rgb(51,122,183);
+    font-family: "Berlin Sans FB";
+    
+}
+
+img {
+    background-position: center
+}
