@@ -4,6 +4,8 @@ html {
 
 body {
      background: transparent;
+     color: cyan;
+     font-family: 'Comic Sans MS';
  }
 
  .mypanel {
