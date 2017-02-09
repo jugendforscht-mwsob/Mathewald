@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1" id="Layer_1" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="1366.168" height="738.389"
+	 viewBox="0 0 1366.168 738.389" overflow="visible" enable-background="new 0 0 1366.168 738.389" xml:space="preserve">
+<g id="Colour">
+	<text transform="matrix(1 0 0 1 734 468.001)" font-family="'Myriad-Roman'" font-size="90">5</text>
+	<rect x="324" fill="none" width="0" height="8"/>
+	<text transform="matrix(1 0 0 1 874 222.001)" font-family="'Myriad-Roman'" font-size="90">6</text>
+	<text transform="matrix(1 0 0 1 1050 158.001)" font-family="'Myriad-Roman'" font-size="90">7</text>
+	<text transform="matrix(1 0 0 1 1194 218.001)" font-family="'Myriad-Roman'" font-size="90">8</text>
+	<text transform="matrix(1 0 0 1 1320 400.001)" font-family="'Myriad-Roman'" font-size="90">9</text>
+</g>
+<g id="Hand">
+	<path stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M1261,440.501c0,0,41.5-35.5,45.5-12.5
+		s-12.5,28.5-23,38s-26.5,25-33,33s-19,36-33,21s-11-37.5-8-41.5s15.5-17.5,25-22.5S1261,440.501,1261,440.501z"/>
+	<path stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M1164.5,276.5c0,0,14.5-35.5,38-30
+		s8.5,50.5,6,57.001c-2.5,6.5-16.5,36.5-21,48.5s-10.5,31.5-17.5,42s-10.5,21-13,27.5s-11,30-20,18.5s-5.5-19.5-3-28s8.5-30,12.5-44
+		s2.5-30,10.5-41c0,0,2-15,2-32.501L1164.5,276.5z"/>
+	<path stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M1043.5,228.5c0,0,2.5-33,24-31.5
+		s24,20.5,21.5,47s-5,57.501-7.5,67.001s-1.5,40-2,47s4.5,56.5-22,53.5s-21-41.5-20.5-47s5-5,5.5-25s-4.5-25-4-32
+		s0.5-42.001,2.5-54.001S1043.5,228.5,1043.5,228.5z"/>
+	<path stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M1186,586.001c12-4,16.5-24.5,12-52
+		s-30-33.5-34.5-33.5s-8,3.5-10.5,3s1,1.5-2.5-4s-13.5-12-20-14s-13-8.5-18.5-10s-14,9-17.5,10.5s-4-1-4-1c-8.5-67-57-34-64-36.5
+		s-21-7-21-7c-3.5-47-29-63-31-67.5s0.5-17.5,0-28.5s-2.5-31.5-5.5-46.5C966,284,976.5,244.5,938.5,245.5S913,298.001,913,298.001
+		s20.5,76,25.5,83.5s8,10.5,9,14s-7,15-6.5,20.5s12,22,11.5,28s0,21.5,2,30s2,42,15,77c0,0-24,33.5-42,39.5c0,0-46.5-28-62-35
+		c0,0-39-62-71.5-40.5s15,73.5,32.5,79c0,0,11,11.5,21,13.5s21,41.5,38.5,48s56,32.5,67,35s25,30.5,107,32.5c0,0,71,38,86-16.5
+		c0,0,6-35.5,11-44.5s1-18.5,1.5-20.5s4.5-7,5-16s9.5-9,14.5-19.5S1186,586.001,1186,586.001z"/>
+</g>
+</svg>
